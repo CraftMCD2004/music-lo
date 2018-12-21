@@ -1,1 +1,1 @@
-# music-lo
+# music-bot
